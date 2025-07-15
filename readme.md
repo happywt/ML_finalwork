@@ -1,5 +1,8 @@
 ### 机器学习大作业
 
+#### 预训练权重
+本工作的预训练权重可以通过该链接进行下载：https://pan.baidu.com/s/10zbQoQpbvU1BOBNE06ZD7w?pwd=7mmh 提取码:7mmh
+
 #### 项目结构
 - master.py
 - readme.md
